@@ -17,7 +17,7 @@ header > h4 {
     margin: 0 15px;
 }
 
-section > div {
+.container {
     width: 80%;
     margin: 0 auto;
     padding: 25px;
