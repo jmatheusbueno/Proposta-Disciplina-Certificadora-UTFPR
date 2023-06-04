@@ -18,6 +18,9 @@ header > h4 {
     margin: 0 15px;
 }
 
+section {
+    height: 100%;
+}
 .container {
     width: 80%;
     margin: 0 auto;
